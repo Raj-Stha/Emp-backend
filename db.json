@@ -1,0 +1,18 @@
+{
+  "employee": [
+    {
+      "employeeName": "Mina Shrestha",
+      "designation": "Developer",
+      "mobile": 1234567890,
+      "active": "Away",
+      "id": 1
+    },
+    {
+      "employeeName": "Raj Shrestha50",
+      "designation": "Designer",
+      "mobile": 1234567890,
+      "active": "Active",
+      "id": 2
+    }
+  ]
+}
